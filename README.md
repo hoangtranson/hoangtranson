@@ -4,7 +4,7 @@
     - Front-End: JavaScript, TypeScript, Angular, Vuejs + Nuxtjs
     - Back-End: Expressjs
     - DataBase: Postgresql
-    
+    - Blog: [Better Fullstack](https://betterfullstack.com/), [Quora](https://www.quora.com/q/cgbxrlafulcelfjr?invite_code=WQivlx6TRLlqqnzZ1VHv), and [Medium](https://medium.com/@transonhoang)
 2. 🌱 I’m currently learning ...
     - Devops on Azure
     - How to use Quora and SEO my content well

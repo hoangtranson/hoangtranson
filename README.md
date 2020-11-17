@@ -1,12 +1,14 @@
 ### Here is what I working on 👋
 
 1. 🔭 I’m currently working on ...
-    - Front-End: JavaScript, TypeScript, Angular, Vuejs + Nuxtjs
+    - Front-End: Angular, Vuejs + Nuxtjs
     - Back-End: Expressjs
+    - Languages: JavaScript, Python
     - DataBase: Postgresql
     - Blog: [Better Fullstack](https://betterfullstack.com/), [Quora](https://www.quora.com/q/cgbxrlafulcelfjr?invite_code=WQivlx6TRLlqqnzZ1VHv), and [Medium](https://medium.com/@transonhoang)
 2. 🌱 I’m currently learning ...
     - Devops on Azure
+    - Data Analytic
     - How to use Quora and SEO my content well
     - How to be better at JavaScript
     

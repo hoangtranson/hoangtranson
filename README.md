@@ -17,4 +17,4 @@
 5. 💬 Ask me about ... **Everything**
 6. 📫 How to reach me: ... [My Linkedin](https://www.linkedin.com/in/hoangtranson/)
 7. 😄 Pronouns: ... Subin
-8. ⚡ Fun fact: ...It took me 6 years to graduate at university because my english is not as good as now and I spent time for game a lot :)
+8. ⚡ Fun fact: ...I have beated my ping pong mentor to win ping pong tournament in 2018

@@ -4,7 +4,7 @@
     - Front-End: Angular, Vuejs + Nuxtjs
     - Back-End: Expressjs, Deno (https://deno.land/)
     - Languages: JavaScript, Python
-    - DataBase: Postgresql
+    - DataBase: Postgresql + MongoDB
     - Blog: [Better Fullstack](https://betterfullstack.com/), [Quora](https://www.quora.com/q/cgbxrlafulcelfjr?invite_code=WQivlx6TRLlqqnzZ1VHv), and [Medium](https://medium.com/@transonhoang)
 2. 🌱 I’m currently learning ...
     - Data Analytic

@@ -8,7 +8,7 @@
     - DataBase: Postgresql + MongoDB
     - Blog: [Better Fullstack](https://betterfullstack.com/), [Quora](https://www.quora.com/q/cgbxrlafulcelfjr?invite_code=WQivlx6TRLlqqnzZ1VHv), and [Medium](https://medium.com/@transonhoang)
 2. 👋 I’m currently working on ...
-    - Insurance Projects (Angular + Typescript)
+    - Many insurance projects (Angular + Typescript)
         - Try to be nice at work with clients ^^
         - Try to be supportive with colleagues 
         - Sometimes angry with JBOSS and Jenkins stuff because I dont have right to touch it at non-dev environment

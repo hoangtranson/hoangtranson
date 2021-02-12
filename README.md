@@ -6,6 +6,7 @@
     - Services: AWS (EC2 - RDS - S3), Heroku, Mongodb.
     - Languages: JavaScript, Python, Rust
     - DataBase: Postgresql + MongoDB
+    - OS: Window, MacOs, Linux (Popos - Ubuntu)
     - Blog: [Better Fullstack](https://betterfullstack.com/), [Quora](https://www.quora.com/q/cgbxrlafulcelfjr?invite_code=WQivlx6TRLlqqnzZ1VHv), and [Medium](https://medium.com/@transonhoang)
 2. 👋 I’m currently working on ...
     - Many insurance projects (Angular + Typescript)

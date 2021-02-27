@@ -25,7 +25,7 @@
     - How to use Quora and SEO my content well
     - How to be better at JavaScript
     
-4. 👯 I’m looking to collaborate on ... writing blog and sharing technical knowledge at [Better Fullstack](https://betterfullstack.com/) and [Quora](https://www.quora.com/q/cgbxrlafulcelfjr?invite_code=WQivlx6TRLlqqnzZ1VHv)
+4. 👯 I’m working hard on ... https://www.i18n.dev
 5. 🤔 I’m looking for help with ... RUST (https://www.rust-lang.org) ^^
 6. 💬 Ask me about ... RUST
 7. 📫 How to reach me: ... [My Linkedin](https://www.linkedin.com/in/hoangtranson/)

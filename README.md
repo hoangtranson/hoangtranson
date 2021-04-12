@@ -4,7 +4,7 @@
     - Front-End: Angular, Vuejs + Nuxtjs
     - Back-End: Expressjs, Deno (https://deno.land/)
     - Services: AWS (EC2 - RDS - S3), Heroku, Mongodb.
-    - Languages: JavaScript, Python, Rust
+    - Languages: JavaScript, Python, Elm (https://elm-lang.org/)
     - DataBase: Postgresql + MongoDB
     - OS: Window, MacOs, Linux (Popos - Ubuntu)
     - Blog: [Better Fullstack](https://betterfullstack.com/), [Quora](https://www.quora.com/q/cgbxrlafulcelfjr?invite_code=WQivlx6TRLlqqnzZ1VHv), and [Medium](https://medium.com/@transonhoang)
@@ -26,8 +26,8 @@
     - How to be better at JavaScript
     
 4. 👯 I’m working hard on ... https://www.i18n.dev
-5. 🤔 I’m looking for help with ... RUST (https://www.rust-lang.org) ^^
-6. 💬 Ask me about ... RUST
+5. 🤔 I’m looking for help with ... Elm (https://elm-lang.org/) ^^
+6. 💬 Ask me about ... Elm
 7. 📫 How to reach me: ... [My Linkedin](https://www.linkedin.com/in/hoangtranson/)
 8. 😄 Pronouns: ... Subin
 9. ⚡ Fun fact: ...I have beated my ping pong mentor to win ping pong tournament in 2018

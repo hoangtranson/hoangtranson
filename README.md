@@ -1,7 +1,7 @@
 ### Here is what I working on 
 
 1. 🔭 My experience ...
-    - Front-End: Angular, Vuejs + Nuxtjs
+    - Front-End: Angular, Vuejs + Nuxtjs, React
     - Back-End: Expressjs, Deno (https://deno.land/)
     - Services: AWS (EC2 - RDS - S3), Heroku, Mongodb.
     - Languages: JavaScript, Python, Elm (https://elm-lang.org/)
@@ -25,7 +25,7 @@
     - How to use Quora and SEO my content well
     - How to be better at JavaScript
     
-4. 👯 I’m working hard on ... https://www.i18n.dev
+4. 👯 I’m working hard on ... https://www.betterfullstack.com
 5. 🤔 I’m looking for help with ... Elm (https://elm-lang.org/) ^^
 6. 💬 Ask me about ... Elm
 7. 📫 How to reach me: ... [My Linkedin](https://www.linkedin.com/in/hoangtranson/)

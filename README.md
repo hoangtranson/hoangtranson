@@ -4,26 +4,16 @@
     - Front-End: Angular, Vuejs + Nuxtjs, React
     - Back-End: Expressjs, Deno (https://deno.land/)
     - Services: AWS (EC2 - RDS - S3), Heroku, Mongodb.
-    - Languages: JavaScript, Python, Elm (https://elm-lang.org/)
+    - Languages: JavaScript, Elm (https://elm-lang.org/)
     - DataBase: Postgresql + MongoDB
     - OS: Window, MacOs, Linux (Popos - Ubuntu)
     - Blog: [Better Fullstack](https://betterfullstack.com/), [Quora](https://www.quora.com/q/cgbxrlafulcelfjr?invite_code=WQivlx6TRLlqqnzZ1VHv), and [Medium](https://medium.com/@transonhoang)
 2. 👋 I’m currently working on ...
-    - Many insurance projects (Angular + Typescript)
-        - Try to be nice at work with clients ^^
-        - Try to be supportive with colleagues 
-        - Sometimes angry with JBOSS and Jenkins stuff because I dont have right to touch it at non-dev environment
-        - Setup New Projects + Implement new features + Do enhancements + Fix bugs + Migration (the worse one is migrating from Angular 4 to Angular 11)
-    - i18n.dev (Deno - https://deno.land + Typescript + Mongo + Vuejs)
-        - Design Agile process for project by using Github
-        - Postman for APIs testing
-        - Setup and Build cool everything (APIs + Devops + Deployment + partially Vuejs) from scratch
-        - Build the world greate again ^^
+    - Cool project in supply chain
+    - Re-build personal blog (https://betterfullstack.com/)
         
 3. 🌱 I’m currently learning ...
-    - Data Analytic at https://www.dataquest.io
-    - How to use Quora and SEO my content well
-    - How to be better at JavaScript
+    - How to be expert at JavaScript
     
 4. 👯 I’m working hard on ... https://www.betterfullstack.com
 5. 🤔 I’m looking for help with ... Elm (https://elm-lang.org/) ^^

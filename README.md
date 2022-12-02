@@ -72,5 +72,5 @@
 6. 💬 Ask me about ... MonoRepo Architecture for FE
 7. 📫 How to reach me: ... [My Linkedin](https://www.linkedin.com/in/hoangtranson/)
 8. 😄 Pronouns: ... Subin
-9. ⚡ Fun fact: ...I have beated my ping pong mentor to win ping pong tournament in 2018
+9. ⚡ Fun fact: ...I do not watch TV since 2009 :D 
 

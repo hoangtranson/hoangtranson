@@ -10,7 +10,7 @@
     - Blog: [Medium](https://medium.com/@transonhoang)
 2. 👋 I’m currently working on ...
     - Cool project in supply chain
-    - Re-build personal blog (https://betterfullstack.com/)
+    - Re-build personal blog https://coderschoolmentee.vn/
         
 3. 🌱 I’m currently learning ...
     - How to be expert at JavaScript

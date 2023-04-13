@@ -3,17 +3,17 @@
 1. 🔭 My experience ...
     - Front-End: Angular, Vuejs + Nuxtjs, React
     - Back-End: Expressjs, Deno (https://deno.land/)
-    - Services: AWS (EC2 - RDS - S3), Heroku, Mongodb.
-    - Languages: JavaScript, Elm (https://elm-lang.org/)
+    - Services: AWS (EC2 - RDS - S3), Heroku, Mongodb, Vietel IDC
+    - Languages: JavaScript
     - DataBase: Postgresql + MongoDB
     - OS: Window, MacOs, Linux (Popos - Ubuntu)
     - Blog: [Medium](https://medium.com/@transonhoang)
 2. 👋 I’m currently working on ...
     - Cool project in supply chain
     - Re-build personal blog https://coderschoolmentee.vn/
+    - Study Python on real side project http://poinofsale-dev.coderschoolmentee.vn/admin/login/?next=/admin/
         
-3. 🌱 I’m currently learning ...
-    - How to be expert at JavaScript
+3. 🌱 I’m currently learning ...Python
     
 4. 👯 I’m working hard on ... Research monorepo (https://gist.github.com/nartc/2830a215398114fd09c57858aec60265)
 

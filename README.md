@@ -1,6 +1,7 @@
-### Here is what I working on 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=hoangtranson&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
+
+## Here is what I working on 
 
 1. 🔭 My experience ...
     - Front-End: Angular, Vuejs + Nuxtjs, React

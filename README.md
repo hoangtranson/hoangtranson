@@ -22,3 +22,5 @@
 8. 😄 Pronouns: ... Subin
 9. ⚡ Fun fact: ...I do not watch TV since 2009 :D 
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=hoangtranson&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
+

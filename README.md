@@ -1,5 +1,7 @@
 ### Here is what I working on 
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=hoangtranson&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
+
 1. 🔭 My experience ...
     - Front-End: Angular, Vuejs + Nuxtjs, React
     - Back-End: Expressjs, Deno (https://deno.land/)
@@ -22,5 +24,5 @@
 8. 😄 Pronouns: ... Subin
 9. ⚡ Fun fact: ...I do not watch TV since 2009 :D 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=hoangtranson&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
+
 

@@ -25,5 +25,7 @@
 8. 😄 Pronouns: ... Subin
 9. ⚡ Fun fact: ...I do not watch TV since 2009 :D 
 
+## Badges
 
+[![meta-back-end-developer-certificate](https://github.com/hoangtranson/hoangtranson/assets/35447677/1c321293-e179-4afb-b0ea-f8925c7079b4)](https://www.credly.com/badges/a47a73e9-fdeb-421c-b335-f72d967b2c6b/public_url)
 

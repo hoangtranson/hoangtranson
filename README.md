@@ -22,11 +22,9 @@
 5. 🤔 I’m looking for help with ... How to be better Engineer
 6. 💬 Ask me about ... MonoRepo Architecture for FE
 7. 📫 How to reach me: ... [My Linkedin](https://www.linkedin.com/in/hoangtranson/)
-8. 😄 Pronouns: ... Subin
+8. 😄 Pronouns: ... Subin.
 9. ⚡ Fun fact: ...I do not watch TV since 2009 :D 
 
 ## Badges
 
-![META Backend Developer Certificate](meta-back-end-developer-certificate.png)
-
-![AWS Cloud Practitioner Badge](aws-cloud-quest-cloud-practitioner.png)
+https://www.credly.com/badges/a47a73e9-fdeb-421c-b335-f72d967b2c6b/public_url

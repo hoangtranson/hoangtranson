@@ -27,8 +27,6 @@
 
 ## Badges
 
-[Meta Back-End Developer](https://coursera.org/share/8aa16658256239f828586689518c8f19)
-[AWS Cloud Practitioner](https://www.credly.com/badges/457dd244-4348-4a71-a512-37ac0177e8bd/public_url)
+![META Backend Developer Certificate](meta-back-end-developer-certificate.png)
 
-![meta-back-end-developer-certificate](https://github.com/hoangtranson/hoangtranson/assets/35447677/1c321293-e179-4afb-b0ea-f8925c7079b4)
-
+![AWS Cloud Practitioner Badge](aws-cloud-quest-cloud-practitioner.png)

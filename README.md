@@ -2,7 +2,7 @@
 
 1. 🔭 My experience ...
     - Front-End: Angular, Vuejs + Nuxtjs, React
-    - Back-End: Expressjs, Deno (https://deno.land/)
+    - Back-End: Expressjs, Deno (https://deno.land/), GraphQL
     - Services: AWS (EC2 - RDS - S3), Heroku, Mongodb, Vietel IDC
     - Languages: JavaScript
     - DataBase: Postgresql + MongoDB
@@ -10,8 +10,7 @@
     - Blog: [Medium](https://medium.com/@transonhoang)
 2. 👋 I’m currently working on ...
     - Cool project in supply chain
-    - Re-build personal blog https://coderschoolmentee.vn/
-    - Study Python on real side project http://poinofsale-dev.coderschoolmentee.vn/admin/login/?next=/admin/
+    - Dealing with complicated db
         
 3. 🌱 I’m currently learning ...Python
     

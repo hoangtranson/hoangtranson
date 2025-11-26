@@ -2,21 +2,21 @@
 
 1. 🔭 My experience ...
     - Front-End: Angular, Vuejs + Nuxtjs, React
-    - Back-End: Expressjs, Deno (https://deno.land/), GraphQL
+    - Back-End: Expressjs, Deno (https://deno.land/), GraphQL, Laravel, Django
     - Services: AWS (EC2 - RDS - S3), Heroku, Mongodb, Vietel IDC
-    - Languages: JavaScript
+    - Languages: JavaScript, PHP, Python
     - DataBase: Postgresql + MongoDB
     - OS: Window, MacOs, Linux (Popos - Ubuntu)
-    - Blog: [Medium](https://medium.com/@transonhoang)
 2. 👋 I’m currently working on ...
-    - Cool project in supply chain
-    - Dealing with complicated db
+    - Have my own product
+    - Mentor
+    - Moving to new company for fulltime job
         
-3. 🌱 I’m currently learning ...Python
+3. 🌱 I’m currently learning ...Design System
     
-4. 👯 I’m working hard on ... my micro-sass product
+4. 👯 I’m working hard on ... Kafka and Posgres Best Practices
 5. 🤔 I’m looking for help with ... How to be better Engineer
-6. 💬 Ask me about ... MonoRepo Architecture for FE
+6. 💬 Ask me about ... Software Architecture
 7. 📫 How to reach me: ... [My Linkedin](https://www.linkedin.com/in/hoangtranson/)
 8. 😄 Pronouns: ... Subin.
 9. ⚡ Fun fact: ...I do not watch TV since 2009 :D 

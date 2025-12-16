@@ -8,8 +8,7 @@
     - DataBase: Postgresql + MongoDB
     - OS: Window, MacOs, Linux (Popos - Ubuntu)
 2. 👋 I’m currently working on ...
-    - Have my own product
-    - Mentor
+    - Mentor few hours a week (Web Development and CS50 https://cs50.harvard.edu )
     - Moving to new company for fulltime job
         
 3. 🌱 I’m currently learning ...Design System

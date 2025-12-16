@@ -18,8 +18,3 @@
 6. 💬 Ask me about ... Software Architecture
 7. 📫 How to reach me: ... [My Linkedin](https://www.linkedin.com/in/hoangtranson/)
 8. 😄 Pronouns: ... Subin.
-9. ⚡ Fun fact: ...I do not watch TV since 2009 :D 
-
-## Badges
-
-https://www.credly.com/badges/a47a73e9-fdeb-421c-b335-f72d967b2c6b/public_url
